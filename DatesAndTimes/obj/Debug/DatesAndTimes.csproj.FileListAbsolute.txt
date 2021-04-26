@@ -1,0 +1,7 @@
+C:\Users\khadija\source\repos\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe.config
+C:\Users\khadija\source\repos\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe
+C:\Users\khadija\source\repos\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
+C:\Users\khadija\source\repos\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.csprojAssemblyReference.cache
+C:\Users\khadija\source\repos\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.csproj.CoreCompileInputs.cache
+C:\Users\khadija\source\repos\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.exe
+C:\Users\khadija\source\repos\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.pdb
